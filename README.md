@@ -19,4 +19,5 @@ I have worked as a software developer for both Cloud9 Software and Synapse Techn
 I hold a Bachelor's degree in Computer Science from Ghent University, as well as a Master's degree in Software Engineering from the same institution.
 
 # More about me
-[my hobbies](hobby.md)
+- [Cooking](hobby.md)
+- [Reading](reading.md)
