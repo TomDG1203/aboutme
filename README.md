@@ -1,4 +1,7 @@
 ## Tom De Groote
+
+![tom](Tom.jpg)
+
 # Java Developer
 
 Welcome to my homepage! My name is Tom De Groote and I am a Java developer from Flanders, Belgium. I have over 10 years of experience in developing and maintaining software applications, and I am proficient in a variety of programming languages and frameworks.
@@ -21,3 +24,4 @@ I hold a Bachelor's degree in Computer Science from Ghent University, as well as
 # More about me
 - [Cooking](hobby.md)
 - [Reading](reading.md)
+- [Travel](travel.md)
