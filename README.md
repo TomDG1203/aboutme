@@ -25,3 +25,4 @@ I hold a Bachelor's degree in Computer Science from Ghent University, as well as
 - [Cooking](hobby.md)
 - [Reading](reading.md)
 - [Travel](travel.md)
+- My fun programming scripts: https://github.com/TomDG1203/fun-scripts
